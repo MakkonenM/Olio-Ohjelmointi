@@ -1,0 +1,17 @@
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\bin\Debug\netcoreapp3.1\Periytyminen.exe
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\bin\Debug\netcoreapp3.1\Periytyminen.deps.json
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\bin\Debug\netcoreapp3.1\Periytyminen.runtimeconfig.json
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\bin\Debug\netcoreapp3.1\Periytyminen.runtimeconfig.dev.json
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\bin\Debug\netcoreapp3.1\Periytyminen.dll
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\bin\Debug\netcoreapp3.1\Periytyminen.pdb
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\bin\Debug\netcoreapp3.1\ElainLuokat.dll
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\bin\Debug\netcoreapp3.1\ElainLuokat.pdb
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\obj\Debug\netcoreapp3.1\Periytyminen.csproj.AssemblyReference.cache
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\obj\Debug\netcoreapp3.1\Periytyminen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\obj\Debug\netcoreapp3.1\Periytyminen.AssemblyInfoInputs.cache
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\obj\Debug\netcoreapp3.1\Periytyminen.AssemblyInfo.cs
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\obj\Debug\netcoreapp3.1\Periytyminen.csproj.CoreCompileInputs.cache
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\obj\Debug\netcoreapp3.1\Periytyminen.csproj.CopyComplete
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\obj\Debug\netcoreapp3.1\Periytyminen.dll
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\obj\Debug\netcoreapp3.1\Periytyminen.pdb
+C:\Users\Miksumi\Desktop\Olio-Ohjelmointi\Periytyminen\obj\Debug\netcoreapp3.1\Periytyminen.genruntimeconfig.cache

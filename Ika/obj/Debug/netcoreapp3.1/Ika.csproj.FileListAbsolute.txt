@@ -1,0 +1,17 @@
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\bin\Debug\netcoreapp3.1\Ika.exe
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\bin\Debug\netcoreapp3.1\Ika.deps.json
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\bin\Debug\netcoreapp3.1\Ika.runtimeconfig.json
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\bin\Debug\netcoreapp3.1\Ika.runtimeconfig.dev.json
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\bin\Debug\netcoreapp3.1\Ika.dll
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\bin\Debug\netcoreapp3.1\Ika.pdb
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\bin\Debug\netcoreapp3.1\ElainLuokat.dll
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\bin\Debug\netcoreapp3.1\ElainLuokat.pdb
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\obj\Debug\netcoreapp3.1\Ika.csproj.AssemblyReference.cache
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\obj\Debug\netcoreapp3.1\Ika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\obj\Debug\netcoreapp3.1\Ika.AssemblyInfoInputs.cache
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\obj\Debug\netcoreapp3.1\Ika.AssemblyInfo.cs
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\obj\Debug\netcoreapp3.1\Ika.csproj.CoreCompileInputs.cache
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\obj\Debug\netcoreapp3.1\Ika.csproj.CopyComplete
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\obj\Debug\netcoreapp3.1\Ika.dll
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\obj\Debug\netcoreapp3.1\Ika.pdb
+C:\Users\miksu\Desktop\Olio-Ohjelmointi\Ika\obj\Debug\netcoreapp3.1\Ika.genruntimeconfig.cache
